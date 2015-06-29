@@ -1,0 +1,16 @@
+[08-Apr-2015 20:48:19 Europe/Athens] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in Command line code on line 1
+[08-Apr-2015 20:48:26 Europe/Athens] PHP Parse error:  syntax error, unexpected '<' in Command line code on line 1
+[08-Apr-2015 20:48:34 Europe/Athens] PHP Parse error:  syntax error, unexpected end of file in Command line code on line 1
+[08-Apr-2015 20:49:53 Europe/Athens] PHP Fatal error:  Call to undefined function file_get_content() in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:50:50 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:50:50 Europe/Athens] PHP Warning:  file_get_contents(https://www.pointer.gr/el): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:51:17 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:51:17 Europe/Athens] PHP Warning:  file_get_contents(https://www.pointer.gr/el): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:53:00 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:53:00 Europe/Athens] PHP Warning:  file_get_contents(https://www.pointer.gr/el): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:53:07 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:53:07 Europe/Athens] PHP Warning:  file_get_contents(https://www.pointer.gr/el): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:53:36 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:53:36 Europe/Athens] PHP Warning:  file_get_contents(https://www.pointer.gr/el): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:54:23 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/a.php on line 2
+[08-Apr-2015 20:54:23 Europe/Athens] PHP Warning:  file_get_contents(https://www.pointer.gr/el): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/a.php on line 2

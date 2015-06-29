@@ -1,0 +1,31 @@
+<?php
+
+function snapWayPoints($gpxfile){
+    $gpx = simplexml_load_file($gpxfile);
+    $size = sizeof($gpx->wpt);
+
+    for ($i = 0; $i <= $size - 1; $i++) {
+
+        $point1 = $gpx->wpt[$i];
+        $attrs1 = $point1->attributes();
+        $lat1 = (float)$attrs1["lat"];
+        $lon1 = (float)$attrs1["lon"];
+        $stringRequest = 'https://maps.googleapis.com/maps/api/directions/json?origin=' . $lat1 . ',' . $lon1 . '&destination=' . $lat1 . ',' . $lon1 . '&mode=walking&key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o';
+
+        $response = file_get_contents($stringRequest);
+
+        $obj = json_decode($response);
+
+        if($obj->status == "OK" ) {
+            $snapLatitude = $obj->routes[0]->legs[0]->start_location->lat;
+            $snapLongitude = $obj->routes[0]->legs[0]->start_location->lng;
+            
+            $gpx->wpt[$i]["lat"] = $snapLatitude;
+            $gpx->wpt[$i]["lon"] = $snapLongitude;
+        }
+        sleep(0.51);
+
+    }
+    $gpx->asXml($gpxfile);
+}
+?>

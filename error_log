@@ -1,0 +1,275 @@
+[03-Apr-2015 11:44:59 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 13:57:27 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 14:03:41 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 14:24:15 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 16:12:34 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 17:37:27 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 18:45:21 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 19:27:18 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[03-Apr-2015 21:41:38 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[04-Apr-2015 17:49:43 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[04-Apr-2015 20:56:44 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[05-Apr-2015 12:18:21 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[05-Apr-2015 14:04:00 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[05-Apr-2015 17:53:16 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[06-Apr-2015 22:03:34 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 187
+[08-Apr-2015 15:04:35 Europe/Athens] PHP Notice:  Undefined variable: discardTrackPoints in /home/pa277408/public_html/include/InacAndDPSmooth.php on line 295
+[08-Apr-2015 15:04:35 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 155
+[08-Apr-2015 15:52:44 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 155
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 156
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114102,24.0296956&amp;destination=35.5114102,24.0296956&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114205,24.0296534&amp;destination=35.5114205,24.0296534&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:48:17 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 156
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114727,24.0296889&amp;destination=35.5114727,24.0296889&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114679,24.0296884&amp;destination=35.5114679,24.0296884&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114679,24.0296884&amp;destination=35.5114679,24.0296884&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 17:57:38 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5106433,24.0301083&amp;destination=35.5106433,24.0301083&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5106566,24.0299866&amp;destination=35.5106566,24.0299866&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5112733,24.0298483&amp;destination=35.5112733,24.0298483&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:11:13 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Undefined variable: discardTrackPoints in /home/pa277408/public_html/include/InacAndDPSmooth.php on line 295
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 156
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.511347,24.0298875&amp;destination=35.511347,24.0298875&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.511347,24.0298875&amp;destination=35.511347,24.0298875&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.511347,24.0298875&amp;destination=35.511347,24.0298875&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:25:00 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Undefined variable: discardTrackPoints in /home/pa277408/public_html/include/InacAndDPSmooth.php on line 295
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 156
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113337,24.0297778&amp;destination=35.5113337,24.0297778&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113337,24.0297778&amp;destination=35.5113337,24.0297778&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113337,24.0297778&amp;destination=35.5113337,24.0297778&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:26:30 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:31:12 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 156
+[08-Apr-2015 18:36:01 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:36:01 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113284,24.0298664&amp;destination=35.5113284,24.0298664&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113241,24.0298791&amp;destination=35.5113241,24.0298791&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 17
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:36:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 18
+[08-Apr-2015 18:41:10 Europe/Athens] PHP Notice:  Undefined variable: discardTrackPoints in /home/pa277408/public_html/include/InacAndDPSmooth.php on line 295
+[08-Apr-2015 18:41:10 Europe/Athens] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/pa277408/public_html/request_log_reg_store_path.php on line 156
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114529,24.0295985&amp;destination=35.5114529,24.0295985&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5114529,24.0295985&amp;destination=35.5114529,24.0295985&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 19
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 18:44:09 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:23 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5103282,24.0300051&amp;destination=35.5103282,24.0300051&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5106879,24.0297146&amp;destination=35.5106879,24.0297146&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113058,24.02985&amp;destination=35.5113058,24.02985&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 20
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 19:22:24 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=35.5113125,24.029658&amp;destination=35.5113125,24.029658&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:31:45 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Warning:  file_get_contents(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/directions/json?origin=0,0&amp;destination=0,0&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:33:34 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Warning:  file_get_contents(http://maps.googleapis.com/maps/api/directions/json?origin=0,0&amp;destination=0,0&amp;mode=walking&amp;key=AIzaSyAexDog4mT1k1S63Py4r7AYTMd2cEf9W7o): failed to open stream: no suitable wrapper could be found in /home/pa277408/public_html/include/snapWpt.php on line 15
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 21
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 22
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[08-Apr-2015 20:34:02 Europe/Athens] PHP Notice:  Trying to get property of non-object in /home/pa277408/public_html/include/snapWpt.php on line 23
+[11-Jun-2015 21:36:00 Europe/Athens] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:50541 Library:100017 in /home/pa277408/public_html/corfu/admin.php on line 5
+[19-Jun-2015 12:19:10 Europe/Athens] PHP Warning:  mysqli_connect(): Headers and client library minor version mismatch. Headers:50541 Library:100017 in /home/pa277408/public_html/corfu/admin.php on line 5
