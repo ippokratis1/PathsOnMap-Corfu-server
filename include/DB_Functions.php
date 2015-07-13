@@ -1,5 +1,10 @@
 <?php
-  
+
+/**
+ * Συναρτήσεις για την επικοινωνία του server με την βάση δεδομέων
+ */
+
+        //Χρησιμοποιείται για την σύνδεση στην βάση
        require_once 'DB_Connect.php';
       
 		
@@ -217,7 +222,7 @@ function uidOfLatsPath() {
      * Γυρίζει τους παίκτες ταξινομημένους κατά
      * πόντους, μέσα σε τον πίνακα response. Αν έχουν βρεθεί
 	 * παίκτες, το $response["success"] = 1, και το response["players"]
-	 * περιέχει τους παόκτες, αλλιώς το response["success"] = 0
+	 * περιέχει τους παίκτες, αλλιώς το response["success"] = 0
      */
     function allPlayersInRank() {
 		
@@ -325,26 +330,26 @@ ORDER BY total_points DESC, name ASC");
         if ($no_of_rows > 0) {
 			
 			// looping through all results
-    		// players node
+    		// players node - βρόχος όλων των αποτελεσμάτων των απικτών
     		$response["players"] = array();
 			
 			 while ($row = mysqli_fetch_array($result)) {
-       			 // temp user array
+       			 // temp player array - προσωρινός πίνακας παικτών
         		$player = array();
         		$player["id_of_player"] = $row["id_of_player"];
         		$player["name"] = $row["name"];
         		$player["total_points"] = $row["total_points"];
         		
  
-        		// push single player into final response array
+        		// push single player into final response array-βάζει έναν παίκτη στον τελικό πίνακα απόκρισης
         		array_push($response["players"], $player);
     		}
-			// success
+			// success- σε περίπτωση επιτυχίας
     		$response["success"] = 1;
 			mysqli_close($mysqli);
             return $response;
         } else {
-			// no players found
+			// no players found- αν δεν βρέθηκαν παίκτες
     		$response["success"] = 0;
     		$response["message"] = "No players found";
 			

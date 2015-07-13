@@ -1,6 +1,9 @@
 <?php
 
-
+/**
+ * Αποκρίνεται σε μια ερώτηση του client με tag getRankOfPlayers.
+ * Γυρίζει την κατάταξη όλων των παικτών
+ */
 if (isset($_POST['tag']) && $_POST['tag'] != '') {
     // Παίρνει την ετικέτα (tag)
     $tag = $_POST['tag'];

@@ -1,6 +1,6 @@
 <?php
 	
-	//Δημιοργία συνάρτησης για να συνδεθούμε στην βάση που θέλουμε
+	//Δημιουργία συνάρτησης για να συνδεθούμε στην βάση που θέλουμε
     function connect() {
         require_once 'include/config.php';
         // connecting to mysql

@@ -1,5 +1,10 @@
 <?php
 
+/**
+ * Συνάρτηση που δέχεται ένα gpx αρχείο και διορθώνει τα waypoints βάζοντας τα στο δρόμο σύμφωνα με το
+ * Directions API της Google
+ */
+
 function snapWayPoints($gpxfile){
     $gpx = simplexml_load_file($gpxfile);
     $size = sizeof($gpx->wpt);
@@ -23,7 +28,7 @@ function snapWayPoints($gpxfile){
             $gpx->wpt[$i]["lat"] = $snapLatitude;
             $gpx->wpt[$i]["lon"] = $snapLongitude;
         }
-        sleep(0.51);
+        sleep(0.51); //περιμένει 0.51 δευτερόλπτα αφού το Direction API έχει τον περιορισμό δύο ερωτήσων ανά δευτερόλεπτο
 
     }
     $gpx->asXml($gpxfile);

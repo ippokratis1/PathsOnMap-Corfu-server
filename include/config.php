@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Database config variables
+ * Database config variables - Μεταβλητές ρυθμίσεων της βάσης δεδομένων
  */
 define("DB_HOST", "localhost");
 define("DB_USER", "pa277408_ippokra");
