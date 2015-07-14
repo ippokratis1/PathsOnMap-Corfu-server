@@ -1,17 +1,8 @@
 <?php
-/**
- * File to handle all API requests
- * Accepts GET and POST
- * 
- * Each request will be identified by TAG
- * Response will be JSON data
 
- /**
- * ελέγχει για αιτήματα POST 
- */
 
 /**
- * Αποκρίνεται σε μια ερώτηση του client με tag pathRequest.
+ * Αρχείο που αποκρίνεται σε μια ερώτηση POST του client με tag pathRequest.
  * Γυρίζει στον client το μονοπάτι που βρίσκεται μια κατάλληλη διαδρομή στον server για να το σχολιάσει ο χρήστης
  */
 	 

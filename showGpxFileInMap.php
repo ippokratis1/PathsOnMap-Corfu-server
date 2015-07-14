@@ -1,23 +1,15 @@
 <?php
 
-	// εισάγει τις συναρτήσεις χειρισμού της βάσης
-	//require_once 'include/DB_Functions.php';
-	
-	 //$player_id = $_GET['player_id'];
-	 
-	 //$path = randomPath($player_id);
-	 //$result = randomPath($player_id);
-	 //$path = $result[0];
-	 //$path = "uploads/path3.gpx";
+    /**
+    * Αρχείο που δέχεται την μονοπάτι μιας διαδρομής μέσα στον server και την εμφανίζει σε μια σελίδα HTML
+    **/
+
 	$path = $_GET['path'];
 	
 	//Για την περίπτωση που κάποιος παίκτης αιτηθεί όλες τις διαδρομές και δεν έχει ανέβει καμία
 	if(!file_exists($path)){
 		$path = "mergeFile/zero_gpx_files.gpx";
 	}
-	/*echo '<script type="text/javascript">
-           window.location = "http://localhost/mapmaker/map.html"
-      </script>';*/
 
 ?>
 
@@ -50,12 +42,12 @@
                     dataType: "xml",
                     success: function(data) {
                       var parser = new GPXParser(data, map);
-                      parser.setTrackColour("#ff0000");     // Set the track line colour
-                      parser.setTrackWidth(5);          // Set the track line width
-                      parser.setMinTrackPointDelta(0.0001);      // Set the minimum distance between track points
+                      parser.setTrackColour("#ff0000");     // Set the track line colour - Ρυθμίζει το χρώμα της τροχιάς
+                      parser.setTrackWidth(5);              // Set the track line width - Ρυθμίζει το πλάτος της τροχιάς
+                      parser.setMinTrackPointDelta(0.0001); // Set the minimum distance between track points - Ρυθμίζει την ελάχιστη απόσταση μεταξύ δύο trackpoints
                       parser.centerAndZoom(data);
-                      parser.addTrackpointsToMap();         // Add the trackpoints
-                      parser.addWaypointsToMap();           // Add the waypoints
+                      parser.addTrackpointsToMap();         // Add the trackpoints - προσθέτει τα teackpoints
+                      parser.addWaypointsToMap();           // Add the waypoints - προσθέτει τα waypoints
                     }
                 });
             }

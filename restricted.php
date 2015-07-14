@@ -1,32 +1,34 @@
 <?php #admin/restricted.php 
            #####[make sure you put this code before any html output]#####
 
-//starting the session
+//starting the session-έναρξη συνόδου
 session_start();
 
 //checking if a log SESSION VARIABLE has been set
+//ελέγχει άμαι μια μεταβλητή συνόδου log έχει οριστεί
 if( !isset($_SESSION['log']) || ($_SESSION['log'] != 'in') ){
         //if the user is not allowed, display a message and a link to go back to login page
+        //αν δεν επιτρέπεται η είσοδος του χρήστη, εμφανίζει ένα μήνυμα και ένα σύνδεσμο για να γυρίσει στην σελίδα σύνδεσης
 	echo "You are not allowed. <a href='admin.php'>back to login page</a>";
         
-        //then abort the script
+        //then abort the script-τότε ματαιώνει το script
 	exit();
 }
 
-####  CODE FOR LOG OUT #### 
+####  CODE FOR LOG OUT - Κώδικας για αποσύνδεση####
 if(isset($_GET['log']) && ($_GET['log']=='out')){
         //if the user logged out, delete any SESSION variables
 	session_destroy();
 	
-        //then redirect to login page
+        //then redirect to login page - ανακατεύθυνση στην σελίδα σύνδεσης
 	header('location:admin.php');
 }//end log out
 ?> 
-<!-- RESTRICTED PAGE HTML GOES HERE -->
-<!-- add a LOGOUT link before the form -->
+<!-- RESTRICTED PAGE HTML-Περιορισμένη σύνδεση HTML  -->
+<!-- add a LOGOUT link before the form - προσθέτει ένα σύνδεσμο αποσύνδεσης -->
 <p>{ <a href="?log=out">log out</a> }</p>
 
- <!-- RESTRICTED PAGE HTML GOES HERE -->
+ <!-- RESTRICTED PAGE HTML- Περιορισμένη σύνδεση HTML -->
  <?php
 
 	// εισάγει τις συναρτήσεις χειρισμού της βάσης
@@ -82,7 +84,6 @@ if(isset($_GET['log']) && ($_GET['log']=='out')){
             }
         </style>
 
-        <!-- Make the document body take up the full screen -->
         <style type="text/css">
             html, body {width: 100%; height: 100%}
             body {margin-top: 0px; margin-right: 0px; margin-left: 0px; margin-bottom: 0px}
@@ -101,12 +102,12 @@ if(isset($_GET['log']) && ($_GET['log']=='out')){
                     dataType: "xml",
                     success: function(data) {
                       var parser = new GPXParser(data, map);
-                      parser.setTrackColour("#ff0000");     // Set the track line colour
-                      parser.setTrackWidth(5);          // Set the track line width
-                      parser.setMinTrackPointDelta(0.0001);      // Set the minimum distance between track points
+                      parser.setTrackColour("#ff0000");     //Set the track line colour - Ρυθμίζει το χρώμα της τροχιάς
+                      parser.setTrackWidth(5);          //Set the track line width - Ρυθμίζει το πλάτος της τροχιάς
+                      parser.setMinTrackPointDelta(0.0001);//Set the minimum distance between trackpoints - Ρυθμίζει την ελάχιστη απόσταση μεταξύ δύο trackpoints
                       parser.centerAndZoom(data);
-                      parser.addTrackpointsToMap();         // Add the trackpoints
-                      parser.addWaypointsToMap();           // Add the waypoints
+                      parser.addTrackpointsToMap();         // Add the trackpoints - προσθέτει τα teackpoints
+                      parser.addWaypointsToMap();           // Add the waypoints - προσθέτει τα waypoints
                     }
                 });
             }

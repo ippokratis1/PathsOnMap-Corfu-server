@@ -1,14 +1,21 @@
 <?php
 
 /**
- * File to handle all API requests
+ * File to handle API requests
  * Accepts GET and POST
  * 
  * Each request will be identified by TAG
  * Response will be JSON data
 
  /**
- * ελέγχει για αιτήματα POST 
+ * Αρχείο που χειρίζεται αιτήματα POST
+ *
+ * Κάθε αίτηση προσδιορίζεται με βάση την ετικέτα
+ *
+ * Οι εικέτες που χειρίζεται είναι: η "login" για σύνδεση, η "register" για εγγραφή και
+ * η "storageFile" για την αποθήκευση των αρχείων gpx,
+ *
+ * Η απόκριση θα είναι δεδομένα JSON
  */
 	 
 	 
@@ -25,7 +32,7 @@ if (isset($_POST['tag']) && $_POST['tag'] != '') {
 
     // ελέγχει για τον τύπο του tag
     if ($tag == 'login') {
-        // Request type is check Login
+        // Request type is check Login - Ο τύπος αιτήματος είναι ο έλεγχος εισόδου
         $email = $_POST['email'];
         $password = $_POST['password'];
 
@@ -82,8 +89,7 @@ if (isset($_POST['tag']) && $_POST['tag'] != '') {
     } else if($tag == 'storageFile'){
 		
 		// εισάγει τις συναρτήσεις απόρριψης των trkpt
-		//require_once 'include/Disc_Trkpt_Of_Gpx_Functions.php';
-		
+
 		//Βλέπει το uid του τελευταίου path μέχρι τώρα
 		$uidOfLastPathUntilNow = uidOfLatsPath();
 		//Το αρχείο που ανέβηκε από τον client	- από τον gps provider

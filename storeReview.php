@@ -1,13 +1,8 @@
 <?php
-/**
- * File to handle all API requests
- * Accepts GET and POST
- * 
- * Each request will be identified by TAG
- * Response will be JSON data
 
- /**
- * ελέγχει για αιτήματα POST 
+/**
+ * Αρχείο που αποκρίνεται σε μια ερώτηση POST του client με tag storeReview για την αποθήκευση μιας κριτικής στην βάση δεδομένων
+ * Γυρίζει αν έγινε η αποθήκευση μέσω μιας απάντησης JSON
  */
 	 
 	 
